@@ -2,7 +2,7 @@
 
 **Backend Engineer - Aklamio GmbH**, Germany (May 2020 - present)
 
-Technologies: MySQL, Ruby, Ruby on Rails 5, Sinatra, Rake, Kafka, GraphQL API, RSpec, Delayed Job, Gitlab CI.
+Technologies: MySQL, Ruby, Ruby on Rails 5, Sinatra, Rake, Kafka, GraphQL API, RSpec, Gitlab CI.
 
 - Designed and developed a Partner GraphQL API from the ground up for the referral platform.
 - Created a reward engine system together with 2 backend engineers based on events from Kafka.
@@ -21,7 +21,7 @@ Technologies: PostgreSQL, Ruby, Ruby on Rails 5, Grape API, RSpec, Sidekiq, Mand
 
 **Full Stack Engineer - iTechArt Group**, Belarus (April 2018 - July 2019)
 
-Technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, AngularJS, QuickBase API, Dropbox API, AWS S3.
+Technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, AngularJS, AWS S3.
 
 - Worked on a long-term project for a US-based client as a part of the dedicated development team.
 - Built an inventory system to manage and track spare parts in the solar asset management platform.
@@ -31,7 +31,7 @@ Technologies: MySQL, Ruby, Ruby on Rails 4, RSpec, MiniTest, JavaScript, Angular
 
 **Full Stack Engineer - Itexus**, Belarus (June 2017 - March 2018)
 
-Technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaScript, AngularJS, Heroku.
+Technologies: MySQL, Ruby, Ruby on Rails 4/5, RSpec, Sidekiq, JavaScript, AngularJS, Heroku.
 
 - Worked on a few mid-term projects for US-based clients who need to bootstrap their businesses.
 - Built a member invitation system based on the MailChimp platform with a custom email template editor.
@@ -41,7 +41,7 @@ Technologies: MySQL, Ruby, Ruby on Rails 4/5, Rails Admin, RSpec, Sidekiq, JavaS
 
 **Software Engineer - Self-Employed**, Belarus (Feb 2016 – Jul 2017)
 
-Technologies: PostgreSQL, Ruby, Ruby on Rails 4/5, Active Admin, RSpec, Sidekiq, JavaScript, Heroku.
+Technologies: PostgreSQL, Ruby, Ruby on Rails 4/5, RSpec, Sidekiq, JavaScript, Heroku.
 
 - Built a few brand promotion applications with content management functionality for end clients and resellers, incl. CMS features, responsive design, admin panel with Active Admin and deploying with Capistrano.
 - Created a prototype of the POS system software for the local coffee shop that is still in use today. My involvement was to develop the user interface and the entire front-end part of the project.
